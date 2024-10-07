@@ -1,6 +1,0 @@
-Dataset
-Source : (https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset/data)
-
-Deployment
-
-https://huggingface.co/spaces/Joshua-FTDS/GC6
